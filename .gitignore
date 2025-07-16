@@ -1,0 +1,7 @@
+custom.mk
+target/**
+.vs*/
+
+*.log
+*.tar.gz
+
